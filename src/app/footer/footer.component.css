@@ -1,7 +1,7 @@
 .footer-box {
   display: flex;
   flex-direction: column;
-  background-color: grey;
+  background-color: black;
   width: 100%;
   margin-top: 600px;
   color: white;
