@@ -1,0 +1,94 @@
+.recipe-list-container {
+  width: 100%;
+  padding: 50px;
+  background: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+}
+
+.recipe-list-container h1 {
+  margin: auto;
+  font-size: 2.6rem;
+  color: #333;
+  font-family: "Poppins", sans-serif;
+}
+
+.categories {
+  width: 600px;
+  padding: 30px;
+  display: flex;
+  gap: 10px;
+  margin: auto;
+  justify-content: center;
+}
+
+.categories button {
+  padding: 6px 10px;
+  border-radius: 20px;
+  min-width: 80px;
+  background-color: grey;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.categories button:hover {
+  background-color: black;
+  transform: scale(1.1);
+}
+
+.cards-container {
+  width: 80%;
+  display: flex;
+  gap: 20px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.cards-container .cards {
+  width: 22%;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cards-container .cards:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.cards img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.cards p {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+.cards .stars {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.cards .stars i {
+  color: #ffc107;
+  font-size: 1.2rem;
+}
