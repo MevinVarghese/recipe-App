@@ -1,0 +1,358 @@
+[
+  {
+    "recipeId": 1,
+    "title": "Vegetable Stir Fry",
+    "description": "A quick and healthy vegetable stir fry recipe with a mix of colorful veggies.",
+    "instructions": "<p>Heat oil in a pan, add garlic, and stir fry vegetables. Season with soy sauce.</p>",
+    "image": [
+      {
+        "url": "https://kristineskitchenblog.com/wp-content/uploads/2024/01/vegetable-stir-fry-22-3.jpg"
+      },
+      {
+        "url": "https://www.budgetbytes.com/wp-content/uploads/2022/03/Easy-Vegetable-Stir-Fry-V1.jpg"
+      }
+    ],
+    "preparationTime": 20,
+    "rating": 4.5,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 2,
+    "title": "Chicken Curry",
+    "description": "A delicious and spicy chicken curry cooked with aromatic spices.",
+    "instructions": "<p>Marinate chicken, sauté onions, add spices and cook till tender.</p>",
+    "image": [
+      {
+        "url": "https://kitchenofdebjani.com/wp-content/uploads/2023/04/easy-indian-chicken-curry-Recipe-for-beginners-Debjanir-rannaghar.jpg"
+      },
+      {
+        "url": "https://feastwithsafiya.com/wp-content/uploads/2022/03/chicken-curry-recipe.jpg"
+      }
+    ],
+    "preparationTime": 45,
+    "rating": 4.8,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 3,
+    "title": "Pasta Alfredo",
+    "description": "Creamy and cheesy Alfredo pasta that's perfect for a quick dinner.",
+    "instructions": "<p>Cook pasta, prepare Alfredo sauce with cream and cheese, and mix.</p>",
+    "image": [
+      {
+        "url": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_3607,h_3607,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg"
+      }
+    ],
+    "preparationTime": 30,
+    "rating": 4.7,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 4,
+    "title": "Grilled Salmon",
+    "description": "A simple grilled salmon recipe with lemon and herbs.",
+    "instructions": "<p>Season salmon, grill until cooked, and serve with lemon wedges.</p>",
+    "image": [
+      {
+        "url": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg"
+      }
+    ],
+    "preparationTime": 25,
+    "rating": 3,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 5,
+    "title": "Vegetable Soup",
+    "description": "A hearty and comforting vegetable soup with a mix of fresh vegetables.",
+    "instructions": "<p>Boil vegetables with stock, add seasoning, and simmer until cooked.</p>",
+    "image": [
+      {
+        "url": "https://downshiftology.com/wp-content/uploads/2023/09/Vegetable-Soup-main-500x375.jpg"
+      }
+    ],
+    "preparationTime": 35,
+    "rating": 2.5,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 6,
+    "title": "Beef Stew",
+    "description": "Tender chunks of beef slow-cooked with vegetables in a rich broth.",
+    "instructions": "<p>Brown beef, add vegetables and stock, and cook on low heat.</p>",
+    "image": [
+      {
+        "url": "https://static01.nyt.com/images/2024/10/28/multimedia/beef-stew-mlfk/beef-stew-mlfk-googleFourByThree.jpg"
+      }
+    ],
+    "preparationTime": 120,
+    "rating": 4,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 7,
+    "title": "Chilli Gobi",
+    "description": "A spicy and tangy Indo-Chinese dish made with crispy fried cauliflower tossed in a flavorful sauce.",
+    "instructions": "<p>Fry cauliflower florets, prepare a sauce with soy sauce, chili sauce, and garlic, and toss the fried cauliflower in the sauce.</p>",
+    "image": [
+      {
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/04/chilli-gobi34.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/236x/ca/a0/d1/caa0d13429465099aaa15beb09534b1b.jpg"
+      }
+    ],
+    "preparationTime": 30,
+    "rating": 5,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 8,
+    "title": "Vegetable Biryani",
+    "description": "A flavorful and aromatic rice dish made with mixed vegetables and spices.",
+    "instructions": "<p>Cook rice and vegetables separately, then layer with spices.</p>",
+    "image": [
+      {
+        "url": "https://www.madhuseverydayindian.com/wp-content/uploads/2022/11/easy-vegetable-biryani-500x500.jpg"
+      }
+    ],
+    "preparationTime": 50,
+    "rating": 4.4,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 9,
+    "title": "Shrimp Scampi",
+    "description": "Succulent shrimp cooked in garlic butter sauce and served with pasta.",
+    "instructions": "<p>Sauté shrimp in garlic butter, mix with pasta, and serve.</p>",
+    "image": [
+      {
+        "url": "https://littlespoonfarm.com/wp-content/uploads/2024/07/Shrimp-Scampi-Recipe-photo-1.jpg"
+      }
+    ],
+    "preparationTime": 25,
+    "rating": 4.7,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 10,
+    "title": "Paneer Tikka",
+    "description": "Marinated paneer chunks grilled to perfection with spices.",
+    "instructions": "<p>Marinate paneer, skewer, and grill until golden.</p>",
+    "image": [
+      {
+        "url": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg"
+      }
+    ],
+    "preparationTime": 40,
+    "rating": 4.5,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 11,
+    "title": "Tandoori Chicken",
+    "description": "Spicy and flavorful chicken marinated in yogurt and cooked in a tandoor.",
+    "instructions": "<p>Marinate chicken, cook in tandoor or oven until tender.</p>",
+    "image": [
+      {
+        "url": "https://healthyrecipesblogs.com/wp-content/uploads/2024/08/tandoori-chicken-featured-2024.jpg"
+      }
+    ],
+    "preparationTime": 50,
+    "rating": 4.8,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 12,
+    "title": "Caesar Salad",
+    "description": "A classic salad with crispy lettuce, croutons, and Caesar dressing.",
+    "instructions": "<p>Toss lettuce, croutons, and Parmesan with dressing.</p>",
+    "image": [
+      {
+        "url": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/caesar-salad.jpg"
+      }
+    ],
+    "preparationTime": 15,
+    "rating": 4.2,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 13,
+    "title": "Fish Tacos",
+    "description": "Fresh fish fillets in soft tortillas with tangy toppings.",
+    "instructions": "<p>Cook fish, assemble tacos with toppings, and serve.</p>",
+    "image": [
+      {
+        "url": "https://www.saveur.com/uploads/2010/03/09/06-220816-PAMU-BAJA_FRIED_FISH_TACO-031_2-scaled.jpg?auto=webp"
+      }
+    ],
+    "preparationTime": 30,
+    "rating": 4.6,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 14,
+    "title": "Stuffed Bell Peppers",
+    "description": "Bell peppers stuffed with a flavorful mixture of rice and veggies.",
+    "instructions": "<p>Stuff bell peppers with mixture, bake until tender.</p>",
+    "image": [
+      {
+        "url": "https://embed.widencdn.net/img/beef/t9bwp7fitq/exact/Stuffed%20Peppers%20-%20NCBA%20Beef%20Aug%20202431717.jpg?keep=c&u=7fueml"
+      }
+    ],
+    "preparationTime": 40,
+    "rating": 4.3,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 15,
+    "title": "Lamb Chops",
+    "description": "Juicy lamb chops marinated in herbs and grilled to perfection.",
+    "instructions": "<p>Marinate lamb chops, grill until cooked.</p>",
+    "image": [
+      {
+        "url": "https://www.windingcreekranch.org/wp-content/uploads/2023/06/smoked-lamb-loin-chops-pellet-grill-on-platter-1-of-1-2.jpg"
+      }
+    ],
+    "preparationTime": 35,
+    "rating": 4.9,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 16,
+    "title": "Mushroom Risotto",
+    "description": "Creamy Italian rice dish cooked with mushrooms and Parmesan.",
+    "instructions": "<p>Cook rice with stock and mushrooms, stir in cheese.</p>",
+    "image": [
+      {
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2023/07/1200-Creamy-Mushroom-Risotto-SpendWithPennies-500x500.jpg"
+      }
+    ],
+    "preparationTime": 45,
+    "rating": 4.7,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 17,
+    "title": "Barbecue Ribs",
+    "description": "Tender and smoky ribs slathered in barbecue sauce.",
+    "instructions": "<p>Slow-cook ribs, apply barbecue sauce, and grill.</p>",
+    "image": [
+      {
+        "url": "https://www.southernliving.com/thmb/sQ3jAjFAP-SPt_upe-Im4rxMKrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/oven-baked-baby-back-ribs-beauty-332_preview-34579f7f15ed4548ae3bb5b2048aab60.jpg"
+      }
+    ],
+    "preparationTime": 120,
+    "rating": 4.8,
+    "category": "Non-Veg"
+  },
+  {
+    "recipeId": 18,
+    "title": "Falafel Wrap",
+    "description": "Crispy falafel wrapped in flatbread with fresh veggies and sauce.",
+    "instructions": "<p>Prepare falafel, wrap in bread with veggies and sauce.</p>",
+    "image": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53DDJU53EBghpGMNHGrYX6cFZahWh4TeT6w&s"
+      }
+    ],
+    "preparationTime": 30,
+    "rating": 4.4,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 19,
+    "title": "Eggplant Parmesan",
+    "description": "Layers of eggplant, marinara, and cheese baked to perfection.",
+    "instructions": "<p>Layer eggplant with sauce and cheese, bake.</p>",
+    "image": [
+      {
+        "url": "https://www.allrecipes.com/thmb/v8J8OelKo1bEJ9RyekLtL89A_R0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457679-eggplant-parmesan-gluten-free-Buckwheat-Queen-4x3-1-1380f16c6cc14e059f7ae7d741d390d9.jpg"
+      }
+    ],
+    "preparationTime": 50,
+    "rating": 4.6,
+    "category": "Veg"
+  },
+  {
+    "recipeId": 20,
+    "title": "Beef Tacos",
+    "description": "Classic beef tacos with seasoned ground beef and fresh toppings.",
+    "instructions": "<p>Cook beef with seasoning, assemble tacos, and serve.</p>",
+    "image": [
+      { "url": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg" }
+    ],
+    "preparationTime": 25,
+    "rating": 4.7,
+    "category": "Non-Veg"
+  },
+
+  {
+    "recipeId": 21,
+    "title": "Classic Vanilla Ice Cream",
+    "description": "Creamy and smooth vanilla ice cream made with real vanilla beans.",
+    "instructions": "<p>Mix milk, cream, and vanilla. Churn in an ice cream maker and freeze until set.</p>",
+    "image": [
+      {
+        "url": "https://eatsdelightful.com/wp-content/uploads/2024/07/frozen-homemade-ice-cream-in-cake-pan-4-683x1024.jpg"
+      },
+      {
+        "url": "https://images.mrcook.app/recipe-image/018ef10a-df1b-706b-9947-336c74969c28"
+      }
+    ],
+    "preparationTime": 120,
+    "rating": 4.7,
+    "category": "Icecream"
+  },
+  {
+    "recipeId": 22,
+    "title": "Chocolate Fudge Ice Cream",
+    "description": "Rich and decadent chocolate ice cream with a fudge swirl.",
+    "instructions": "<p>Prepare a chocolate base, churn, and swirl in fudge sauce before freezing.</p>",
+    "image": [
+      {
+        "url": "https://img.freepik.com/premium-photo/chocolate-fudge-ice-cream-with-nuts-sweet-creamy-ice-cream-wafer-photography_1020697-438868.jpg"
+      },
+      {
+        "url": "https://homefoodie.com.ph/uploads/2018/07/Chocolate-Fudge-Ice-Creams_011-B.jpg"
+      }
+    ],
+    "preparationTime": 150,
+    "rating": 4.8,
+    "category": "Icecream"
+  },
+  {
+    "recipeId": 23,
+    "title": "Strawberry Ice Cream",
+    "description": "Refreshing strawberry ice cream made with fresh strawberries.",
+    "instructions": "<p>Puree strawberries, mix with cream and sugar, churn, and freeze.</p>",
+    "image": [
+      {
+        "url": "https://www.recipetineats.com/tachyon/2018/07/Strawberry-Ice-Cream-No-Churn_3b.jpg"
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjTUi8UHei2WaL_KLprMpLi8iEutuohJeUA&s"
+      }
+    ],
+    "preparationTime": 90,
+    "rating": 4.6,
+    "category": "Icecream"
+  },
+  {
+    "recipeId": 24,
+    "title": "Mango Sorbet",
+    "description": "A tropical mango sorbet that's light and refreshing.",
+    "instructions": "<p>Blend mangoes with sugar and lime juice, freeze, and churn until smooth.</p>",
+    "image": [
+      {
+        "url": "https://coocoocook.com/wp-content/uploads/2022/08/PXL_20220818_022932731.PORTRAIT_2-scaled-e1660794315399-576x1024.jpg"
+      },
+      {
+        "url": "https://www.kikkoman.eu/fileadmin/_processed_/6/4/csm_1034-recipe-page-The-easiest-2-ingredient-mango-sorbet_mobile_45fca91ef8.webp"
+      }
+    ],
+    "preparationTime": 80,
+    "rating": 4.5,
+    "category": "Icecream"
+  }
+]

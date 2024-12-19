@@ -1,0 +1,28 @@
+<div class="recipe-list-container">
+  <h1>Recipes based on dietry preferences</h1>
+  <div class="categories">
+    <button
+      *ngFor="let category of categories"
+      [ngClass]="{ selected: category === selectedCategory }"
+      (click)="filterRecipes(category)"
+    >
+      {{ category }}
+    </button>
+  </div>
+  <div class="cards-container">
+    <div class="cards" *ngFor="let recipe of recipes">
+      <img [src]="recipe.image[0].url" [alt]="recipe.title" />
+      <h5>{{ recipe.title }}</h5>
+      <p>{{ recipe.description }}</p>
+      <div class="stars">
+        <ng-container *ngFor="let starIndex of [1, 2, 3, 4, 5]">
+          <i [class]="getStarClass(recipe.rating, starIndex)"></i>
+        </ng-container>
+        <i
+          style="color: black; padding: 0px 15px"
+          class="fa-regular fa-heart"
+        ></i>
+      </div>
+    </div>
+  </div>
+</div>
