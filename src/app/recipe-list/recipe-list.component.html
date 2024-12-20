@@ -10,7 +10,7 @@
     </button>
   </div>
   <div class="cards-container">
-    <div class="cards" *ngFor="let recipe of recipes">
+    <div routerLink="./view-page" class="cards" *ngFor="let recipe of recipes">
       <img [src]="recipe.image[0].url" [alt]="recipe.title" />
       <h5>{{ recipe.title }}</h5>
       <p>{{ recipe.description }}</p>
