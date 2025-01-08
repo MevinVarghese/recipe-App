@@ -7,6 +7,9 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeroComponent } from './hero/hero.component';
 import { RecipeListComponent } from './recipe-list/recipe-list.component';
+import { ViewPageComponent } from './view-page/view-page.component';
+import { MainViewComponent } from './main-view/main-view.component';
+import { FavoritesComponent } from './favorites/favorites.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { RecipeListComponent } from './recipe-list/recipe-list.component';
     NavbarComponent,
     FooterComponent,
     HeroComponent,
-    RecipeListComponent
+    RecipeListComponent,
+    ViewPageComponent,
+    MainViewComponent,
+    FavoritesComponent
   ],
   imports: [
     BrowserModule,
