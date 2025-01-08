@@ -1,11 +1,18 @@
 <app-navbar></app-navbar>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
-<h3>favorites page</h3>
+<div class="favorite-container">
+  <div class="items-box" *ngFor="let recipe of recipes">
+    <div class="recipe-content">
+      <div>
+        <img [src]="recipe.image[0].url" [alt]="recipe.title" />
+      </div>
+      <div>
+        <h5>{{ recipe.title }}</h5>
+      </div>
+    </div>
+    <div class="del-view-icons">
+      <div routerLink="/view-page"><i class="fa-solid fa-eye"></i></div>
+      <div><i class="fa-solid fa-trash"></i></div>
+    </div>
+  </div>
+</div>
 <app-footer></app-footer>
